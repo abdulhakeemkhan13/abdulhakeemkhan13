@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m *@abdulhakeemkhan13*
 
-<!--
-**abdulhakeemkhan13/abdulhakeemkhan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 *Professional Web Application Developer*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 *Expertise & Skills*
+
+- 🧩 *Laravel (PHP)* – Robust backend architecture and development  
+- ⚙ *JavaScript* – Interactive, dynamic frontend interfaces  
+- 🤖 *AI Integration* – Seamless integration of intelligent systems  
+- 🧠 *Custom AI Model Development* – Building models tailored to business needs  
+- 🔌 *API Development* – Scalable and secure RESTful APIs  
+- 📺 *Streaming Development* – Real-time media & data transmission  
+- 🗺 *Mapbox* – Advanced mapping & geolocation features
+
+---
+
+### 🌱 *About Me*
+
+- 👀 I’m passionate about building intelligent, scalable web applications  
+- 💬 Always eager to collaborate on innovative tech projects  
+- 🛠 Focused on delivering clean, efficient, and maintainable code  
+
+---
+
+### 📫 *Contact Me*
+
+- 📱 *WhatsApp*: [wa.me/+923452214990](https://wa.me/923452214990)  
+- 📧 *Email: **abdulhakeemkhan13@gmail.com*
+
+---
+
+⭐ Let’s build something great together!
